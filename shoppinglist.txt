@@ -4,3 +4,5 @@ apa
 lapte
 rosii 
 branza
+pere
+mere
